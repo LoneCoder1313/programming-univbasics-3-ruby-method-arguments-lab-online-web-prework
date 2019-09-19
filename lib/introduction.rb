@@ -11,6 +11,8 @@ name = "Ricky"
 def introduction_with_language(name, language)
   puts "Hi, name is #{name} and I am learning to program in #{language}." 
 end 
+language = "Ruby"
+#method 
 
 def introduction_with_language_optional(name, language)
   puts "Hi, name is #{name} and I am learning to program in #{language}."
